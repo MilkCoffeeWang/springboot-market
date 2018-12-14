@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<web-app id="WebApp_ID" version="2.5"  
+    xmlns="http://JAVA.sun.com/xml/ns/j2ee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  
+    xsi:schemaLocation="http://JAVA.sun.com/xml/ns/j2ee http://JAVA.sun.com/xml/ns/j2ee/web-app_2_5.xsd" metadata-complete="true">  
+</web-app> 
