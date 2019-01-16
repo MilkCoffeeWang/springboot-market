@@ -23,7 +23,7 @@ package com.light.springboot;
 @EnableAsync
 public class SpringbootApplication {
     /**
-     *
+     *启动类
      * @param args
      */
     public static void main(String[] args) {
