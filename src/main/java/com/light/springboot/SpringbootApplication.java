@@ -22,10 +22,7 @@ package com.light.springboot;
 //开启异步调用方法
 @EnableAsync
 public class SpringbootApplication {
-    /**
-     * 启动类
-     * @param args
-     */
+
     public static void main(String[] args) {
         SpringApplication.run(SpringbootApplication.class, args);
     }
