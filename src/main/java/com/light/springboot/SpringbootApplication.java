@@ -25,7 +25,7 @@ public class SpringbootApplication {
     /**
      *启动类
      * @param args
-     * @author Wang
+     * @author Wangzhen
      */
     public static void main(String[] args) {
         SpringApplication.run(SpringbootApplication.class, args);
