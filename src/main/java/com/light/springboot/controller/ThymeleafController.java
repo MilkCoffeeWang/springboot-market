@@ -17,8 +17,7 @@ import com.light.springboot.pojo.User;
 public class ThymeleafController {
 
 	@RequestMapping("/index")
-    public String index(ModelMap map) {
-        map.addAttribute("name", "thymeleaf-imooc");
+    public String index() {
         return "thymeleaf/index";
     }
 	
